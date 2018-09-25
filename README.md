@@ -1,5 +1,5 @@
-# Web-Front-End-Programming  
-* Description: Software Engineering: Web Front End Programming, 2018 Autumn, HDU.  
+# Web Front End Programming & Data Visualization: Principle and Application  
+* Description: Software Engineering: Web Front End Programming & Data Visualization: Principle and Application, 2018 Autumn, HDU.   
 ---  
 ## CTF数据可视化平台
 Description: CTF data visualization platform.
